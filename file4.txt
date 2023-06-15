@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is file4 added
 This is a new line added in master
+=======
+this is new line added 
+>>>>>>> newFeature
